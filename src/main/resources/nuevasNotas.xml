@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<notas>
+    <nota>
+        <alumno>12344345</alumno>
+        <asignatura>Idioma</asignatura>
+        <nota>5</nota>
+    </nota>
+    <nota>
+        <alumno>12344343</alumno>
+        <asignatura>FOL</asignatura>
+        <nota>7</nota>
+    </nota>
+    <nota>
+        <alumno>12344346</alumno>
+        <asignatura>Derecho</asignatura>
+        <nota>7</nota>
+    </nota>
+</notas>
